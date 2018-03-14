@@ -1,8 +1,10 @@
-# startup_namer
+# Startup Namer
+Aplikasi dari codelab flutter, bisa ditemukan disini https://flutter.io/get-started/codelab/
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+## Preview
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios1.png" width="256">&nbsp;
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios2.png" width="256">&nbsp;
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios3.png" width="256">&nbsp;
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios4.png" width="256">&nbsp;
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios5.png" width="256">&nbsp;
+<img src="https://github.com/omrobbie/flutter_startup_namer/blob/master/screenshot/ios6.png" width="256">&nbsp;
